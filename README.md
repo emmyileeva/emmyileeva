@@ -109,9 +109,13 @@ A collection of console-based Java applications focused on real-world functional
 
 ---
 
+---
+
 <p align="center">
+  Thanks for visiting! 💕<br/>
   <img src="https://api.visitorbadge.io/api/VisitorHit?user=emmyileeva&repo=emmyileeva&countColor=%23FF69B4&labelColor=%23FFB6C1" />
 </p>
+
 
 
 
