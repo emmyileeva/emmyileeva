@@ -109,7 +109,8 @@ A collection of console-based Java applications focused on real-world functional
 
 ---
 
-🌸 ![visitors](https://visitor-badge.glitch.me/badge?page_id=emmyileeva.emmyileeva&left_color=#FFB6C1&right_color=#FF69B4)
+🌸 ![](https://api.visitorbadge.io/api/VisitorHit?user=emmyileeva&repo=emmyileeva&countColor=%23FF69B4&labelColor=%23FFB6C1)
+
 
 
 
