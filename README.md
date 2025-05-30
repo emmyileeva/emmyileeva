@@ -92,8 +92,8 @@ A Django-based web app that lets users create, update, and organize recipes by c
 👩🏼‍🍳 *Built for:* A take-home assignment, turned passion project!
 
 ### 🧮 [Java Capstone Projects](https://github.com/emmyileeva/LTC-Capstones)
-A collection of console-based Java applications focused on real-world functionality. Currently includes a personal finance ledger.  
-📊 *Skills:* OOP, file I/O, data formatting, user interaction logic.
+A collection of console-based Java applications focused on real-world functionality. Currently includes a personal finance ledger and a customizable sandwich shop app (*Nom Nom Deli*).  
+📊 *Skills:* OOP, file I/O, data formatting, user interaction logic, input validation, and clean code design.
 
 ---
 
